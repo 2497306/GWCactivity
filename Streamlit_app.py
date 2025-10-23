@@ -1,7 +1,8 @@
 import streamlit as st
 
 st.title("Halloween Candy Recommender")
-print("Hello World")
+st.title("Hello World")
+
 
 
 
